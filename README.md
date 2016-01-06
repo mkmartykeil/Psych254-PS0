@@ -1,7 +1,6 @@
-# Psych254-PS0
+# Psych254-PS0-Readme
 
-Problem Set 0 - Readme
-============================
+Assignment: Problem Set 0
 
 Includes: Funfile.rft
 
